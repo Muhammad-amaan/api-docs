@@ -108,7 +108,7 @@
 
         {{--<h4 class="centered"> Minimal Controls </h4>--}}
         {{--<p class="centered">( define the controls available )</p>--}}
-        <div id="cropContainerMinimal"></div>
+        {{--<div id="cropContainerMinimal"></div>--}}
 
 
         <div class="card-panel">
